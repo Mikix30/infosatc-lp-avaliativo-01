@@ -35,8 +35,7 @@
 * Extensões utilizadas no <a href="https://code.visualstudio.com/"> Visual Studio Code</a>:<a href="https://marketplace.visualstudio.com/items?itemName=KnisterPeter.vscode-github1"> GitHub</a>, <a href="https://marketplace.visualstudio.com/items?itemName=ms-python.python"> Python</a>, <a href="https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode"> Intellicode</a>, <a href="https://marketplace.visualstudio.com/items?itemName=2gua.rainbow-brackets"> Rainbow Brackets</a> e  <a href="https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"> GitLens - Git Supercharged</a>.
 
 * Editor Utilizado: <a href="https://code.visualstudio.com/"> Visual Studio Code</a>.
-
-* Tema utilizado para o <a href="https://code.visualstudio.com/"> Visual Studio Code</a>: <a href="https://marketplace.visualstudio.com/items?itemName=hsnazar.hyper-term-theme"> Hyper Term Theme</a>.
+> Tema Utilizado para o <a href="https://code.visualstudio.com/"> Visual Studio Code</a>: <a href="https://marketplace.visualstudio.com/items?itemName=hsnazar.hyper-term-theme"> Hyper Term Theme</a>.
  
 
 * Link para as <a href="https://github.com/Mikix30/infosatc-lp-avaliativo-01">  atividades 
@@ -46,3 +45,5 @@
 Feito por: <a href="https://www.instagram.com/jurumeia_/"> Júlia Barboza Brunelli</a>.
 
 # Sobre o curso de <a href="https://www.instagram.com/infosatc/"> Informática</a>.
+
+

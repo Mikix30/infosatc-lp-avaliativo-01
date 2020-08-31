@@ -32,10 +32,10 @@
 
 * Descrição: Esses exercícios foram realizados na disciplina de Linguagem de Programação, orientada pela professora <a href="https://www.instagram.com/francinecardoson/"> Francine Cardoso</a>, entre os dias 26/08/2020 à 01/09/2020.
 
-* Extensões utilizadas no <a href="https://code.visualstudio.com/"> Visual Studio Code</a>:<a href="https://marketplace.visualstudio.com/items?itemName=KnisterPeter.vscode-github1"> GitHub</a>, <a href="https://marketplace.visualstudio.com/items?itemName=ms-python.python"> Python</a>, <a href="https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode"> Intellicode</a>, <a href="https://marketplace.visualstudio.com/items?itemName=2gua.rainbow-brackets"> Rainbow Brackets</a> e  <a href="https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"> GitLens - Git Supercharged</a>.
 
 * Editor Utilizado: <a href="https://code.visualstudio.com/"> Visual Studio Code</a>.
 > Tema Utilizado para o <a href="https://code.visualstudio.com/"> Visual Studio Code</a>: <a href="https://marketplace.visualstudio.com/items?itemName=hsnazar.hyper-term-theme"> Hyper Term Theme</a>.
+> Extensões utilizadas no <a href="https://code.visualstudio.com/"> Visual Studio Code</a>:<a href="https://marketplace.visualstudio.com/items?itemName=KnisterPeter.vscode-github1"> GitHub</a>, <a href="https://marketplace.visualstudio.com/items?itemName=ms-python.python"> Python</a>, <a href="https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode"> Intellicode</a>, <a href="https://marketplace.visualstudio.com/items?itemName=2gua.rainbow-brackets"> Rainbow Brackets</a> e  <a href="https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"> GitLens - Git Supercharged</a>.
  
 
 * Link para as <a href="https://github.com/Mikix30/infosatc-lp-avaliativo-01">  atividades 

@@ -45,3 +45,4 @@
 <br>
 Feito por: <a href="https://www.instagram.com/jurumeia_/"> Júlia Barboza Brunelli</a>.
 
+# Sobre o curso de <a href="https://www.instagram.com/infosatc/"> Informática</a>.

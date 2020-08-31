@@ -49,8 +49,10 @@ Feito por: <a href="https://www.instagram.com/jurumeia_/"> Júlia Barboza Brunel
 
 # Sobre o curso de <a href="https://www.instagram.com/infosatc/"> Informática</a>.
 
+A área de Tecnologia da Informação de uma empresa é essencial para o seu bom funcionamento, sendo assim, o curso técnico em Informática tem como objetivo a formação de profissionais que possam desenvolver programas, solucionar problemas computacionais, realizar testes de software e executar a manutenção de programas em computadores. Para isso, são disponibilizados laboratórios de informática com os programas necessários para execução de projetos, além de possuir um laboratório de conversação (ILab) e um laboratório de redes. As aulas são totalmente práticas, preparando o aluno para atuar em empresas de programação, desenvolvimento de sistemas, redes de computação, tecnologia da informação e também trabalhar autônomo.
 
 
+* Estrutura Curricular
 
 <font face="times new roman" size=3 color="#00FA9A">
 <strong>Primeiro módulo</strong>

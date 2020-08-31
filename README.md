@@ -53,7 +53,7 @@ Feito por: <a href="https://www.instagram.com/jurumeia_/"> Júlia Barboza Brunel
 
 
 <font face="times new roman" size=3 color="#00FA9A">
- ##<strong>Primeiro módulo</strong>
+<strong>Primeiro módulo</strong>
 <br><br><br>
 <table>
 <table border="1" cellspacing"15">

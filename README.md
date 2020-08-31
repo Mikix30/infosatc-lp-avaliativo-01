@@ -50,3 +50,132 @@ Feito por: <a href="https://www.instagram.com/jurumeia_/"> Júlia Barboza Brunel
 # Sobre o curso de <a href="https://www.instagram.com/infosatc/"> Informática</a>.
 
 
+
+
+<font face="times new roman" size=3 color="#00FA9A">
+ <strong>Primeiro módulo</strong>
+<br><br><br>
+<table>
+<table border="1" cellspacing"15">
+<tr>
+<td>Matérias</td>
+<td>Carga horária</td>
+</tr>
+<tr>
+<td>Técnica de Programação I</td>
+<td>75h</td>
+</tr>
+<tr>
+<td>Programação Orientada Objeto I</td>
+<td>75h</td>
+</tr>
+<tr>
+<td>Estrutura de Dados I</td>
+<td>75h</td>
+</tr>
+<tr>
+<td>Introdução a Compuatação I</td>
+<td>75h</td>
+</tr>
+<td>Total de horas</td>
+<td>300h</td>
+</tr>
+</table>
+
+<font face="times new roman" size=3 color="#00FA9A">
+
+<br><br><br>
+<strong>Segundo módulo</strong>
+<br><br><br>
+<table>
+<table border="1" cellspacing"15">
+<tr>
+<td>Matérias</td>
+<td>Carga horária</td>
+</tr>
+<tr>
+<td>Técnic de Programação II</td>
+<td>75h</td>
+</tr>
+<tr>
+<td>Programação Orientada Objeto  II</td>
+<td>75h</td>
+</tr>
+<tr>
+<td>Estrutura de Dados II</td>
+<td>75h</td>
+</tr>
+<tr>
+<td>Introdução a Computação II</td>
+<td>75h</td>
+</tr>
+
+<td>Total de horas</td>
+<td>300h</td>
+</tr>
+</table>
+
+<font face="times new roman" size=3 color="#00FA9A">
+<br><br><br>
+<strong>Terceiro módulo</strong>
+<br><br><br>
+<table>
+<table border="1" cellspacing"15">
+<tr>
+<td>Matérias</td>
+<td>Carga horária</td>
+</tr>
+<tr>
+<td>Técnica de Programação III</td>
+<td>75h</td>
+</tr>
+<tr>
+<td>Programação Orientada Objeto III</td>
+<td>75h</td>
+</tr>
+<tr>
+<td>Programação para Web I</td>
+<td>75h</td>
+</tr>
+<tr>
+<td>Projetos e Desenvolvimento de Sistemas I</td>
+<td>75h</td>
+</tr>
+<tr>
+<td>Total de horas</td>
+<td>300h</td>
+</tr>
+</table>
+
+<font face="times new roman" size=3 color="#00FA9A">
+<br><br><br>
+<strong>Quarto módulo</strong>
+<br><br><br>
+<table>
+<table border="1" cellspacing"15">
+<tr>
+<td>Matérias</td>
+<td>Carga horária</td>
+</tr>
+<tr>
+<td>Técnica de Programação IV</td>
+<td>75h</td>
+</tr>
+<tr>
+<td>Programação Orientada Objeto IV</td>
+<td>75h</td>
+</tr>
+<tr>
+<td>Programação para Web II</td>
+<td>75h</td>
+</tr>
+<tr>
+<td>Projeto e Desenvolvimento de Sistema II</td>
+<td>75h</td>
+</tr>
+<tr>
+<td>Total de horas</td>
+<td>300h</td>
+</tr>
+</table>
+</p>

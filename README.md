@@ -53,7 +53,9 @@ A área de Tecnologia da Informação de uma empresa é essencial para o seu bom
 
 
 * Estrutura Curricular
-
+ <br>
+ 
+ 
 <font face="times new roman" size=3 color="#00FA9A">
 <strong>Primeiro módulo</strong>
 <br><br><br>

@@ -1,7 +1,7 @@
 # infosatc-lp-avaliativo-01
 <br> Atividade  avaliativa  01 da disciplina de linguagem  de programação do curso técnico de informática SATC 2020 <br>
 
-<p align="center">
+
  
 <br><a href="https://web.satc.edu.br/">
 <img src="logo.png">
@@ -63,6 +63,7 @@ A área de Tecnologia da Informação de uma empresa é essencial para o seu bom
 <br><br><br>
  <p align="center">
 <table>
+ <p align="center">
 <table border="1" cellspacing"15">
 <tr>
 <td>Matérias</td>

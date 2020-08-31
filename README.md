@@ -21,7 +21,8 @@
  31/08/2020
 
 
-<br>* Matéria: Linguagem de Programação  <a href="https://www.python.org/"> 
+
+ * Matéria: Linguagem de Programação  <a href="https://www.python.org/"> 
  (Python)
 </a>.
 
@@ -33,7 +34,7 @@
 
 * Extensões utilizadas:<a href="https://marketplace.visualstudio.com/items?itemName=KnisterPeter.vscode-github1"> GitHub </a>, <a href="https://marketplace.visualstudio.com/items?itemName=ms-python.python"> Python </a>, <a href="https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode"> Intellicode </a>, <a href="https://marketplace.visualstudio.com/items?itemName=2gua.rainbow-brackets"> Rainbow Brackets </a> e  <a href="https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"> GitLens - Git Supercharged </a>.
 
-* Tema utilizado <a href="https://marketplace.visualstudio.com/items?itemName=hsnazar.hyper-term-theme"> Hyper Term Theme </a>
+* Tema utilizado <a href="https://marketplace.visualstudio.com/items?itemName=hsnazar.hyper-term-theme"> Hyper Term Theme </a>.
  
 
 * Link para as <a href="https://github.com/Mikix30/infosatc-lp-avaliativo-01">  atividades 
